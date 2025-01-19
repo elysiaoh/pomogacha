@@ -1,2 +1,2 @@
 # pomogacha
-Pomodoro Gacha app for independent study 
+Pomodoro Gacha app for independent study!
